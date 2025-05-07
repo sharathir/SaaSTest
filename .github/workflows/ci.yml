@@ -3,7 +3,7 @@ name: CI Pipeline
 on:
   push:
     branches:
-      - master # or main, depending on your main branch name 
+      - master # or main, depending on your main branch name
 
 jobs:
   build_and_push:
